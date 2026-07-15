@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @HasinAmanda
 - 👀 I’m interested in programming New inovations
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently undergraduate at university of Moratuwa
+- 💞️ I’m looking to collaborate on nextjs projects, AI projects
+- 📫 How to reach me @hasinamanda @insta,facebook
 - 😄 Pronouns: Dolphin Developers
-- ⚡ Fun fact: ...
 
 <!---
 HasinAmanda/HasinAmanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
