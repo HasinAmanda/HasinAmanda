@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Hasin Amanda 👋</h1>
   
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/HasinAmanda">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=BSc+(Hons)+Eng+in+CSE+@+UoM;Software+Engineer;SaaS+Builder+|+Full-Stack;Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
   </a>
 </div>
@@ -59,6 +59,6 @@ As a lifelong learner who builds and explores new concepts every single day, I a
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HasinAmanda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasinAmanda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
