@@ -6,7 +6,7 @@
   </a>
 </div>
 
-### 🚀 Software Engineer | SaaS Builder | BSc (Hons) Eng in Computer Science Engineering
+###  Software Engineer | SaaS Builder | BSc (Hons) Eng in Computer Science Engineering
 
 I am currently pursuing a **BSc (Hons) Eng in Computer Science Engineering** at the **University of Moratuwa**. I specialize in building end-to-end SaaS products, full-stack web applications, and utility platforms that solve real-world business problems. 
 
@@ -44,7 +44,7 @@ As a lifelong learner who builds and explores new concepts every single day, I a
 
 ---
 
-## 🚀 Featured Projects & SaaS
+##  Featured Projects & SaaS
 
 | Project | Description | Live Link |
 |:---|:---|:---|
