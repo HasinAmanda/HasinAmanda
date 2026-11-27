@@ -52,6 +52,7 @@ As a lifelong learner who builds and explores new concepts every single day, I a
 | **Study Focus Helper** | A productivity web application designed to help students maintain focus and manage their academic workflow. | [studyfocushub.app](https://studyfocushub.app) |
 | **WebToolHub** | A monetized platform hosting a variety of specialized utility tools and animated templates for everyday use. | [webtoolhub.app](https://webtoolhub.app) |
 | **Ecolux Villas** | Custom web platform and listing management interface built for modern hospitality businesses. | [ecoluxvillas.com](https://ecoluxvillas.com) |
+| **Ceylon Premiums** | Website for Ceylon premiums to sell their products to foreign audience with High SEO optimized | [ceylonpremiums.com](https://www.ceylonpremiums.com/) |
 | **Business Solutions** | Custom point-of-sale (POS) systems and order management software developed directly for local businesses. | *Private Repos* |
 
 ---
